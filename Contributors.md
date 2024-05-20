@@ -57,6 +57,7 @@ taha
 - [Jordan Salamone](https://github.com/JordanSalamone)
 - [Jishnu J](https://github.com/JishnuJayaraj)
 - [Srushti Haryan](https://github.com/SrushtiHaryan)
+- [LalithSaiKumar](https://github.com/Llalithsaikumar)
 - [Steven Gross] (https://github.com/grossatron)
 - [Utkarsh verma](https://github.com/utkggjdu2a)
 - [Siddhartha Sarkar](https://github.com/SiddharthaSarkar1)
